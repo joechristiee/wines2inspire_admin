@@ -1,0 +1,12 @@
+﻿# dependencies
+node_modules/
+.pnp.*
+
+# production build
+.next/
+out/
+
+# misc
+.env*
+*.log
+.DS_Store
